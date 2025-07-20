@@ -1,5 +1,5 @@
 # studentdemo
 this is my first Git Repositiory.
 <br>
-Author-> Nandani gupta
+Author-> Nandani gupta (nandu)
 
